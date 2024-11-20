@@ -5,7 +5,7 @@ A simple calculator built with an Arduino Uno, an I2C LCD, and a 4x4 Keypad.
 ## Setup Instructions
 
 1. **Power Supply**:
-   - Connect the ground (GND) and voltage (VCC) pins of the LCD display to a power source (e.g., your laptop via USB or a 9V battery).
+   - Connect the ground (GND) and voltage (VCC) pins of the LCD display to Board
 
 2. **LCD Connections**:
    - Connect the **SDA** pin of the LCD to **Analog Pin A4** on the Arduino.
