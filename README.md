@@ -35,3 +35,7 @@ A simple calculator built with an Arduino Uno, an I2C LCD, and a 4x4 Keypad.
 ![IMG_2426](https://github.com/user-attachments/assets/4c9c70a0-9677-460d-8082-474d781afa07)
 ![IMG_2429](https://github.com/user-attachments/assets/7dc8285f-d79d-4688-ae60-7dbbfd82db87)
 ![minus](https://github.com/user-attachments/assets/fb422f67-0bed-4543-b6e1-6d84eb28f630)
+<video width="640" height="360" controls>
+  <source src="https://github.com/Shonazenilok/Arduino-Calculator/raw/main/path-to-your-video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
